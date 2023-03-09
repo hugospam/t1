@@ -3,11 +3,6 @@ title = "Tyler Blair Business Consulting
 theme = "LoveIt"
 description = "Tyler Blair Toronto Business Consulting"
 
-[module]
-  [module.hugoVersion]
-    extended = true
-    min = "0.62.0"
-
 [params]
   # site default theme ["auto", "light", "dark"]
   # 网站默认主题 ["auto", "light", "dark"]
