@@ -2,3 +2,7 @@ baseURL = 'http://tylerblair.bio/'
 languageCode = 'en-us'
 title = 'Tyler Blair Business Consulting'
 theme = 'LoveIt'
+description = "Tyler Blair Business Consulting"
+  [params.header]
+[params.header.title]
+      name = "Tyler Blair"
