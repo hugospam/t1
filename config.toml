@@ -1,0 +1,4 @@
+baseURL = 'http://tylerblair.bio/'
+languageCode = 'en-us'
+title = 'Tyler Blair Business Consulting'
+theme = 'ananke'
