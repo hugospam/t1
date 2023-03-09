@@ -52,3 +52,13 @@ description = "Tyler Blair Toronto Business Consulting"
       social = true
       # disclaimer (HTML format is supported)
       # 免责声明 (支持 HTML 格式)
+       [params.social]
+    GitHub = "https://www.iheartradio.ca/580-cfra/audio-podcasts/listen-now-he-was-a-very-hard-worker-tyler-blair-lost-his-father-and-step-mother-in-the-mass-killing-in-nova-scotia-1.12212134"
+    Linkedin = "https://calbears.com/sports/baseball/roster/tyler-blair/21967"
+    Twitter = "https://www.hudl.com/profile/6134933/Tyler-Blair"
+    Instagram = "https://www.scott-sports.com/gb/en/teams/motosports/moto-snowmobile/tyler-blair"
+    Facebook = "https://ridewhistler.ca/tyler-blair/"
+    Telegram = "https://www.loopnet.com/commercial-real-estate-brokers/profile/tyler-blair/wq8vpwkb"
+    Medium = "https://gwyneddathletics.com/sports/mens-soccer/roster/tyler-blair/5656"
+    Gitlab = "https://co.milesplit.com/athletes/12220512-tyler-blair/photos"
+    Youtubelegacy = "https://www.realtor.com/realestateagents/56d60fa2de071e01006342a3"
